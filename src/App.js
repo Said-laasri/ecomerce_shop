@@ -1,5 +1,5 @@
 import React from "react";
-import NavBar from "./component/Navbar/NavBar";
+import ResponsiveAppBar from "./component/Navbar/NavBar";
 import Home from "./component/Home/Home";
 import Team from "./component/Team/Team";
 import Products from "./component/Products/Products";
@@ -8,11 +8,11 @@ import Footer from "./component/Footer/Footer";
 function App() {
   return (
     <>
-      <NavBar />
-      <Home />
-      <Products />
+      <ResponsiveAppBar />
       <Team />
+      <Products />
       <Footer />
+      <Home />
     </>
   );
 }
