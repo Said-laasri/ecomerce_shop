@@ -22,10 +22,10 @@
   - [🙏 Acknowledgments ](#-acknowledgments-)
   - [📝 License ](#-license-)
 
-# 📖 myPortfolio <a name="about-project"></a>
+# 📖 ecomerce_shop <a name="about-project"></a>
 
 
-MyPortfolio app is a resume of my journey and skills and the project I worked on and a way to contact me in need of re
+...
 
 
 ## 🛠 Built With <a name="built-with"></a>
